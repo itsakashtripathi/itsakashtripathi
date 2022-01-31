@@ -1,0 +1,89 @@
+{
+    "content": {
+        "20": {
+            "2021-01-23": [],
+            "2021-01-24": {
+                "9:00 AM": true,
+                "10:00 AM": true,
+                "11:00 AM": true,
+                "12:00 PM": true,
+                "1:00 PM": true,
+                "2:00 PM": true,
+                "3:00 PM": true,
+                "4:00 PM": true
+            },
+            "2021-01-25": {
+                "9:00 AM": true,
+                "10:00 AM": true,
+                "11:00 AM": true,
+                "12:00 PM": true,
+                "1:00 PM": true,
+                "2:00 PM": true,
+                "3:00 PM": true,
+                "4:00 PM": true
+            },
+            "2021-01-26": {
+                "9:00 AM": true,
+                "10:00 AM": true,
+                "11:00 AM": true,
+                "12:00 PM": true,
+                "1:00 PM": true,
+                "2:00 PM": true,
+                "3:00 PM": true,
+                "4:00 PM": true
+            },
+            "2021-01-27": {
+                "9:00 AM": true,
+                "10:00 AM": true,
+                "11:00 AM": true,
+                "12:00 PM": true,
+                "1:00 PM": true,
+                "2:00 PM": true,
+                "3:00 PM": true,
+                "4:00 PM": true
+            },
+            "2021-01-28": {
+                "9:00 AM": true,
+                "10:00 AM": true,
+                "11:00 AM": true,
+                "12:00 PM": true,
+                "1:00 PM": true,
+                "2:00 PM": true,
+                "3:00 PM": true,
+                "4:00 PM": true
+            },
+            "2021-01-29": {
+                "9:00 AM": true,
+                "10:00 AM": true,
+                "11:00 AM": true,
+                "12:00 PM": true,
+                "1:00 PM": true,
+                "2:00 PM": true,
+                "3:00 PM": true,
+                "4:00 PM": true
+            },
+            "2021-01-30": {
+                "9:00 AM": true,
+                "10:00 AM": true,
+                "11:00 AM": true,
+                "12:00 PM": true,
+                "1:00 PM": true,
+                "2:00 PM": true,
+                "3:00 PM": true,
+                "4:00 PM": true
+            },
+            "2021-01-31": {
+                "9:00 AM": true,
+                "10:00 AM": true,
+                "11:00 AM": true,
+                "12:00 PM": true,
+                "1:00 PM": true,
+                "2:00 PM": true,
+                "3:00 PM": true,
+                "4:00 PM": true
+            }
+        }
+    },
+    "success": true,
+    "duration": "0.575"
+}

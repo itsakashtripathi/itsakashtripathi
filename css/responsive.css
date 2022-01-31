@@ -1,0 +1,162 @@
+/* if the viewport is equal to 340px or less than that */
+@media only screen and (max-width: 340px) {
+  .header_area .main-menu .navbar,
+  .header_area .main-menu .navbar .navbar-brand,
+  .site-main .subscribe-us-area .subscribe .subscribe-title,
+  .site-main .subscribe-us-area .subscribe .subscribe-title p,
+  h4,
+  .site-main .services-area,
+  .site-main .subscribe-us-area .subscribe {
+    padding: 2%;
+    margin: 0%;
+  }
+
+  .site-main .site-banner .site-title h1 {
+    font-size: 41px;
+  }
+
+  .site-main .subscribe-us-area .subscribe form .input-textbox input {
+    width: 15rem !important;
+  }
+
+  .site-main > .services-area .services {
+    width: 13rem;
+  }
+}
+
+/* if the viewport is equal to 340px or less than that */
+@media only screen and (max-width: 792px) {
+  .site-main .about-area .about-title h2 > span {
+    font-size: 31px;
+    letter-spacing: 10px;
+  }
+
+  .site-main .brand-area .experience-area .years-area {
+    padding-left: 1%;
+    width: 49%;
+  }
+
+  .site-main .brand-area .experience-area .bg-panel {
+    margin-left: 30%;
+    width: 80%;
+  }
+
+  .site-main .brand-area .experience-area .call-area {
+    padding-left: 3%;
+  }
+
+  .site-main .project-area .button-group button {
+    font: normal 500 18px/40px var(--roboto);
+  }
+
+  .site-main .about-area .about-title p {
+    padding: 0%;
+  }
+
+  .site-main .subscribe-us-area .subscribe form .input-textbox input {
+    width: 20rem;
+    margin: 5%;
+  }
+}
+
+/* if the viewport is equal to 1910px or less than that */
+@media only screen and (max-width: 1910px) {
+  .header_area .main-menu .navbar {
+    padding: 1rem;
+  }
+
+  .container {
+    max-width: 90%;
+  }
+
+  .site-main .brand-area,
+  .site-main .services-area .services-title,
+  .site-main .about-area {
+    padding: 3% 4%;
+  }
+}
+
+/* responsive start */
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .title-text {
+    font: normal bold 30px/ 50px var(--roboto);
+  }
+
+  .site-main .site-banner .site-title h1 {
+    font-size: 1.5rem;
+  }
+
+  .site-main .site-banner .site-title h4 {
+    font-size: 1rem;
+  }
+
+  .brand-btn,
+  .banner-image,
+  .about-image {
+    display: none;
+  }
+
+  .card-bg,
+  .card-bg + .py-5,
+  .card-bg + .px-5,
+  .card-bg .container-fluid,
+  .card-container + .py-5,
+  .card-container + .px-5 {
+    /* margin: 0; */
+    padding: 0 !important;
+  }
+
+  .card-container {
+    box-shadow: none;
+  }
+
+  .cards {
+    margin-bottom: 40px;
+  }
+
+  .card-footers {
+    margin-top: 75px !important;
+  }
+
+  .card-bg {
+    background-color: #fff !important;
+    border: 0 !important;
+  }
+
+  .card-bg,
+  .avatar-c {
+    margin-right: 0 !important;
+  }
+
+  .button-group {
+    /* display: flex;
+      flex-direction: column; */
+    display: none;
+  }
+
+  .nav-item {
+    padding: 10px 2px;
+  }
+
+  .extra-info {
+    visibility: hidden;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+}
+/* responsive end */
