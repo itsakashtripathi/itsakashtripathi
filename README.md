@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsakashtripathi
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on ambitious projects
   <!-- - 📫 How to reach me -->
   <!---
